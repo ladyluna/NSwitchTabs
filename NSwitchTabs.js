@@ -7,7 +7,7 @@ var NSwitchTabs = (function() {
 /**
  * NSwitch Tabs
  *
- * @version 2.5
+ * @version 2.5.0
  * @author Natalia Uvarova
  */
 
