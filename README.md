@@ -1,14 +1,12 @@
 NSwitchTabs
 ===========
 
-Переключатель Табов
-
-с возможностью запоминания выбранной табы в local storage
+Переключатель Табов с возможностью запоминания выбранной табы в local storage
 
 @version 2.5.0
-
 @author Natalia Uvarova
  
+---
 @constructor NSwitchTabs
 
 @param {jQuery Object} $container Контейнер блока с переключателями табов
