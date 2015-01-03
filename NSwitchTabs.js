@@ -1,6 +1,6 @@
 if (!window.NSwitchTabs) {
 
-NSwitchTabs = (function() {
+var NSwitchTabs = (function() {
 
 'use strict';
 
