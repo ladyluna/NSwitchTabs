@@ -46,3 +46,18 @@ Version 2.5.0:
 
 Добавлена возможность переименования data-атрибутов, обозначающих элементы табов
 Добавлено определение имени предыдущей табы по событию 'tabs.change'
+
+---
+
+Пример инициализации:
+
+        new AppNY.NSwitchTabs($('.js-afisha-box-nav'), $('.js-afisha-box-view'),
+            {
+                useLocalStorage: true, 
+                keyLocalStorage: 'NY_selectTabAfisha'
+            });
+
+
+	Указываем что нужно сохранять выбранную вкладку в local storage и имя ключа            
+          
+  
