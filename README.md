@@ -1,9 +1,9 @@
 NSwitchTabs
 ===========
 
-Переключатель Табов 
+Переключатель Табов, с возможностью запоминания выбранной табы в local storage
 
-с возможностью запоминания выбранной табы в local storage
+---
 
 @version 2.5.0
 
@@ -18,7 +18,7 @@ NSwitchTabs
 
 @param {Object} params параметры
 
-		{String} params.buttonsDataAttrName Имя data-атрибута для элементов переключателей табов
+	{String} params.buttonsDataAttrName Имя data-атрибута для элементов переключателей табов
 		
         {String} params.tabsDataAttrName Имя data-атрибута для элементов контента табов
         
