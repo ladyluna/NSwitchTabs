@@ -18,6 +18,7 @@ NSwitchTabs
 
 @param {Object} params параметры
 
+
 	{String} params.buttonsDataAttrName Имя data-атрибута для элементов переключателей табов
 		
         {String} params.tabsDataAttrName Имя data-атрибута для элементов контента табов
