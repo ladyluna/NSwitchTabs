@@ -17,21 +17,20 @@ NSwitchTabs
 @param {jQuery Object} $containerView Контейнер блока с контентом табов
 
 @param {Object} params параметры
-
-
-	{String} params.buttonsDataAttrName Имя data-атрибута для элементов переключателей табов
 	
-        {String} params.tabsDataAttrName Имя data-атрибута для элементов контента табов
-        
-        {String} params.activeButton Класс для обозначения текущего переключателя табы
-        
-        {String} params.activeTab Класс для обозначения текущей табы
-        
-        {String} params.hiddenTab Класс для обозначения скрытой табы
-        
-        {boolean} params.useLocalStorage Признак сохранять выбранную табу в localStorage или нет
-        
-        {String} params.keyLocalStorage Ключ для localStorage
+			{String} params.buttonsDataAttrName Имя data-атрибута для элементов переключателей табов
+		
+	        {String} params.tabsDataAttrName Имя data-атрибута для элементов контента табов
+	        
+	        {String} params.activeButton Класс для обозначения текущего переключателя табы
+	        
+	        {String} params.activeTab Класс для обозначения текущей табы
+	        
+	        {String} params.hiddenTab Класс для обозначения скрытой табы
+	        
+	        {boolean} params.useLocalStorage Признак сохранять выбранную табу в localStorage или нет
+	        
+	        {String} params.keyLocalStorage Ключ для localStorage
 
 Version 2.2.0:
 
