@@ -20,7 +20,7 @@ NSwitchTabs
 
 
 	{String} params.buttonsDataAttrName Имя data-атрибута для элементов переключателей табов
-		
+	
         {String} params.tabsDataAttrName Имя data-атрибута для элементов контента табов
         
         {String} params.activeButton Класс для обозначения текущего переключателя табы
